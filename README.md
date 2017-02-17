@@ -11,7 +11,7 @@ Expression contains only factorials of numbers and multiplying signs, like: `zer
 ```js
 zeros('5!') // -> 1 because 5! === 120
 zeros('10!') // -> 2 because 10! === 3628800
-zeros('9!!*10!!') // -> because 9!!*10!! === 3628800
+zeros('9!!*10!!') // 2 -> because 9!!*10!! === 3628800
 ```
 
 Write your code in `src/index.js`
