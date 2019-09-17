@@ -15,3 +15,20 @@ zeros('9!!*10!!') // 2 -> because 9!!*10!! === 3628800
 ```
 
 Write your code in `src/index.js`
+
+## Prepare and test
+1. Install [Node.js](https://nodejs.org/en/download/)   
+2. Fork this repository: https://github.com/Shastel/zeros/  
+3. Clone your newly created repo: https://github.com/<%your_github_username%>/zeros/  
+4. Go to folder `zeros`  
+5. To install all dependencies use [`npm install`](https://docs.npmjs.com/cli/install)  
+6. Run npm test in command line  
+7. You will see the number of passing and failing tests you 100% of passing tests is equal to 100p in score  
+
+## Submit to [rs app](https://app.rs.school)
+1.
+2.
+...
+n.
+
+credits [@yankouskia](https://github.com/yankouskia/)
